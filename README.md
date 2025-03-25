@@ -13,26 +13,28 @@
 ## Technical Analysis -Static and Dynamic Analysis
 
 
-Both 'eioc.py' and Phishtool 'https://phishtool.com/' were used for this analysis  
++ Both 'eioc.py' and Phishtool 'https://phishtool.com/' were used for this analysis  
 
 I run the 'eioc.py tool to extract the fields as below.  
 <picture>![image](https://github.com/user-attachments/assets/fda52dd2-7a49-40d4-84c2-ac9c84aa0ada)</picture>
-
-  Below is a snapshot of some parts of the analysis obtained from the Phishtool.
+  
+Below is a snapshot of some parts of the analysis obtained from the Phishtool.
 
  a. Email Metadata
 
 <picture>![image](https://github.com/user-attachments/assets/5c148b61-5d2f-42d1-bb11-454b677e33f3)</picture>
-
-b. Associated URLs Analysis
  
+b. Associated URLs Analysis
+   
 | URL | Analysis | Verdict|
 | -------- | --------- | --------- |
 | https://www.dropbox.com/l/ABCIzswwTTJ9--CxR05fYXX35pPA-Y0m3PY/forgot_finish | <picture>![image](https://github.com/user-attachments/assets/e1382674-2792-4d71-b504-da1c09343017) </picture> | From the analysis, URL is genuine link |
 | https://www.dropbox.com/l/AADQ493u2QLcZrv2kCW6C6i0Ac-mR0hUXxU/help/365 | <picture>![image](https://github.com/user-attachments/assets/40943063-f0ca-4b62-b343-f1ae5fd0f6c7) </picture>| From the analysis, URL is genuine link |
-
+  
 c. Sender IP Analysis  
+  
 The domaintool 'https://whois.domaintools.com/ was used to get us the information in the snapshot below.  
+  
 <picture>![image](https://github.com/user-attachments/assets/4c49fa89-f1d2-4ec9-a841-b4c41a12eb87)</picture>
 
 
@@ -41,6 +43,7 @@ The domaintool 'https://whois.domaintools.com/ was used to get us the informatio
 <picture>![image](https://github.com/user-attachments/assets/dbadf7f4-daa0-47a2-8418-03385995d320)</picture>  
   
 Answer was obtained from the use of the 'eioc.py' script  
+  
 <picture>![image](https://github.com/user-attachments/assets/288c11e3-6829-4f65-b456-e6a34f2ace5c)</picture>
 ###
 <picture>![image](https://github.com/user-attachments/assets/f1d1a89f-3e93-41ec-8132-63eab4bcfb7a)</picture>  
@@ -54,18 +57,20 @@ Answer obtained from the Phishtool.
 <picture>![image](https://github.com/user-attachments/assets/b9c712a8-fa52-4bd8-a749-65ed7851c660)
 </picture>  
 <picture>![image](https://github.com/user-attachments/assets/a98d29c9-7554-4eee-b50c-b0b79ec4c20f)
-</picture>  
+</picture>   
 Using the whois domain tools 'https://whois.domaintools.com/' to obtain the resolved hostname   
+  
 <picture>![image](https://github.com/user-attachments/assets/81afb28d-ca3d-4df3-95fd-07de01e79f5e)
 </picture>  
 <picture>![image](https://github.com/user-attachments/assets/e96ed304-9074-489c-81be-c1ab367590bb)
 </picture>  
 Using the whois domain tools 'https://whois.domaintools.com/' to obtain the  Autonomous System Number    
+  
 <picture>![image](https://github.com/user-attachments/assets/89e9b35a-7e67-4e4f-acc5-b668026793ce)
 </picture>  
 <picture>![image](https://github.com/user-attachments/assets/0e0c49ae-4a2d-409d-863c-ad0e8c8ebad4)
-</picture>    
-Answer obtained from 'eioc.py'  and/or the Phishtool
+</picture>     
+Answer obtained from 'eioc.py'  and/or the Phishtool  
 <picture>![image](https://github.com/user-attachments/assets/d3c378d9-2876-4702-b213-bffa5069bef8)
 </picture>  
 <picture>![image](https://github.com/user-attachments/assets/463f14b4-eed6-4a44-960e-a7efc8dcd0d2)
@@ -78,7 +83,8 @@ Answer obtained from 'eioc.py'  and/or the Phishtool
 </picture>  
 <picture>![image](https://github.com/user-attachments/assets/1e929522-330e-4ccb-bdc8-360398871d2f)
 </picture>  
-Answer was obtained from the Phishtool  
+Answer was obtained from the Phishtool    
+  
 <picture>![image](https://github.com/user-attachments/assets/0b576312-f7bb-43dc-8b83-db691e10c136)
 </picture>  
 <picture>![image](https://github.com/user-attachments/assets/e7e200a8-88c4-464e-852d-f861f5dc49a5)
